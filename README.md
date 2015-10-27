@@ -1,4 +1,4 @@
-# broccoli-config-loader
+# broccoli-config-loader [![Build Status](https://travis-ci.org/ember-cli/broccoli-config-loader.svg)](https://travis-ci.org/ember-cli/broccoli-config-loader)
 
 This plugin writes the environment files for an [ember-cli][] [Project][].
 
