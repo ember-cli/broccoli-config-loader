@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/ember-cli/broccoli-config-loader#readme",
   "dependencies": {
-    "broccoli-caching-writer": "^2.0.4"
+    "broccoli-caching-writer": "^2.1.0"
   },
   "devDependencies": {
     "broccoli": "^0.16.8",
