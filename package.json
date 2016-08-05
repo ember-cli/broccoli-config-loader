@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Write your project's environments' configs out to JSON files.",
   "main": "index.js",
+  "files": [
+    "index.js"
+  ],
   "scripts": {
     "test": "node_modules/mocha/bin/mocha"
   },
