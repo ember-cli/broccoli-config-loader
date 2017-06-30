@@ -1,6 +1,6 @@
 {
   "name": "broccoli-config-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Write your project's environments' configs out to JSON files.",
   "main": "index.js",
   "files": [
